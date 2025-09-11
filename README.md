@@ -50,17 +50,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
----
-
-### BI: Analytics & Reporting (Data Analysis)
-
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 ## 🧑‍💻 About Me
 &nbsp;&nbsp;&nbsp; I’m a passionate data enthusiast eager to expand my expertise beyond analytics into data engineering. This portfolio showcases my journey into the world of data warehousing, where I design ETL pipelines, build dimensional models, and integrate multiple data sources to create centralized repositories for analytics and reporting.
