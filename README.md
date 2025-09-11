@@ -13,7 +13,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 
-
+&nbsp;
+&nbsp;
 
 ## 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
@@ -27,6 +28,9 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
+&nbsp;
+&nbsp;
+
 ## 📖 Project Overview
 
 This project involves:
@@ -35,6 +39,9 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
+&nbsp;
+&nbsp;
 
 ## 🚀 Project Requirements
 
@@ -49,14 +56,16 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
-
+&nbsp;
+&nbsp;
 
 ## 🧑‍💻 About Me
 &nbsp;&nbsp;&nbsp; I’m a passionate data enthusiast eager to expand my expertise beyond analytics into data engineering. This portfolio showcases my journey into the world of data warehousing, where I design ETL pipelines, build dimensional models, and integrate multiple data sources to create centralized repositories for analytics and reporting.
 
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
-
+&nbsp;
+&nbsp;
 
 ## 🌐 For Contact and Business:
 
