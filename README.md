@@ -56,17 +56,17 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
-&nbsp;
-&nbsp;
 
+&nbsp;
+&nbsp;
 ## 🧑‍💻 About Me
 &nbsp;&nbsp;&nbsp; I’m a passionate data enthusiast eager to expand my expertise beyond analytics into data engineering. This portfolio showcases my journey into the world of data warehousing, where I design ETL pipelines, build dimensional models, and integrate multiple data sources to create centralized repositories for analytics and reporting.
 
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
-&nbsp;
-&nbsp;
 
+&nbsp;
+&nbsp;
 ## 🌐 For Contact and Business:
 
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
