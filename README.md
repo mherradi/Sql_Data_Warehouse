@@ -27,6 +27,9 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+<img width="1342" height="841" alt="Data Flow drawio" src="https://github.com/user-attachments/assets/04bc9c97-c61c-4b82-bcca-fb2cf8ad75f3" />
+
+
 ---
 &nbsp;
 &nbsp;
@@ -38,6 +41,9 @@ This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+
+<img width="1461" height="972" alt="Integration Model drawio" src="https://github.com/user-attachments/assets/258e38b7-73e1-41d9-bea0-f1594f837763" />
+
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 &nbsp;
